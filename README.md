@@ -80,7 +80,7 @@ En Windows también puede utilizar:
 ```bash
 py main.py
 ```
-O ejecuta el archivo en VS Code haciendo clic en el botón 'Run Python File' para verlo en la terminal.
+O podemos ejecutar el archivo en VS Code haciendo clic en el botón 'Run Python File' para verlo en la terminal o consola como algunos la conocemos.
 ## Nota
 
 Las vistas no leen directamente los archivos JSON. La información es solicitada

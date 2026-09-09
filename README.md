@@ -59,7 +59,7 @@ La aplicación utiliza una única ventana principal de Tkinter y un único
 - Usuario: `Milton`
 - Contraseña: `admin`
 
-La autenticación es local y simulada con fines pedagógicos.
+La autenticación es local y simulada para nuestro aprendizaje como estudaintes.
 
 ## Requisitos
 
